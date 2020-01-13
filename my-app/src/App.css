@@ -1,0 +1,174 @@
+html {
+  box-sizing: border-box;
+  margin: 0;
+  background-attachment: fixed;
+  /* background-image: url(./serveimage.jpeg); */
+  background-size: cover;
+  height: 100vh;
+  width: 100vw;
+}
+
+.app-header {
+  text-align: center;
+  width: 100%;
+}
+
+.add-form {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+::placeholder {
+  /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: rgb(0, 49, 128);
+  opacity: 1; /* Firefox */
+}
+
+:-ms-input-placeholder {
+  /* Internet Explorer 10-11 */
+  color: rgb(0, 49, 128);
+}
+
+::-ms-input-placeholder {
+  /* Microsoft Edge */
+  color: rgb(0, 49, 128);
+}
+
+.add-form input {
+  width: 300px;
+  height: 25px;
+  font-size: 16px;
+  border-radius: 3px;
+  background-color: white;
+  color: rgb(0, 49, 128);
+  border: 2px solid rgb(0, 49, 128);
+  padding: 15px 32px;
+  margin: 15px;
+}
+
+.add-form button {
+  display: block;
+  background-color: rgb(0, 49, 128);
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  border-radius: 3px;
+  cursor: pointer;
+  margin: 15px;
+}
+
+.add-form button:hover {
+  background-color: rgb(80, 127, 204);
+}
+
+.list button {
+  display: inline-block;
+  background-color: rgb(0, 49, 128);
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 14px;
+  border-radius: 3px;
+  cursor: pointer;
+  margin: 5px;
+}
+
+button:hover {
+  background-color: rgb(80, 127, 204);
+}
+
+.list .del-btn {
+  background-color: rgb(128, 0, 0);
+}
+
+.list .del-btn:hover {
+  background-color: rgb(195, 71, 71);
+}
+
+.list input {
+  width: 150px;
+  height: 12px;
+  font-size: 14px;
+  border-radius: 3px;
+  background-color: white;
+  color: rgb(0, 49, 128);
+  border: 2px solid rgb(0, 49, 128);
+  padding: 15px 15px;
+  margin: 15px;
+}
+
+.list {
+  width: 60vw;
+  border-top: 2px solid rgb(0, 49, 128);
+  margin: 15px auto;
+}
+
+.list-item {
+  display: grid;
+  grid-template-columns: 3fr 1fr 1fr;
+  margin: 5px;
+  padding: 10px;
+}
+
+.list-item:hover {
+  background-color: rgba(218, 218, 218, 0.5);
+}
+
+.list-item h2 {
+  grid-column-start: 1;
+  padding-left: 18px;
+}
+
+.list-item form {
+  grid-column-start: 3;
+}
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+
+  .app-header {
+    font-size: 12px;
+    font-weight: 900;
+  }
+
+  .add-form input {
+    padding: 7px;
+    margin: 5px 10px;
+  }
+
+  .add-form button {
+    padding: 10px;
+    margin: 5px;
+  }
+
+  .list {
+    width: 100%;
+    padding-top: 10px;
+  }
+
+  .list-item {
+    grid-template-columns: auto 80px 80px;
+    height: 30px;
+  }
+
+  .list-item h2 {
+    font-size: 18px;
+    height: 25px;
+    padding: 0;
+    margin: 0;
+  }
+
+  .list-item button {
+    font-size: 12px;
+    padding: 0;
+    height: 25px;
+    margin: 0 3px;
+  }
+}
