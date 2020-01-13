@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Vocab/static/css/main.dce59214.chunk.css",
-    "main.js": "/Vocab/static/js/main.e1be8180.chunk.js",
-    "main.js.map": "/Vocab/static/js/main.e1be8180.chunk.js.map",
+    "main.css": "/Vocab/static/css/main.3e9eb1f4.chunk.css",
+    "main.js": "/Vocab/static/js/main.7dcf9dcc.chunk.js",
+    "main.js.map": "/Vocab/static/js/main.7dcf9dcc.chunk.js.map",
     "runtime-main.js": "/Vocab/static/js/runtime-main.3c1dc965.js",
     "runtime-main.js.map": "/Vocab/static/js/runtime-main.3c1dc965.js.map",
-    "static/js/2.b54504f2.chunk.js": "/Vocab/static/js/2.b54504f2.chunk.js",
-    "static/js/2.b54504f2.chunk.js.map": "/Vocab/static/js/2.b54504f2.chunk.js.map",
+    "static/js/2.9af82fa2.chunk.js": "/Vocab/static/js/2.9af82fa2.chunk.js",
+    "static/js/2.9af82fa2.chunk.js.map": "/Vocab/static/js/2.9af82fa2.chunk.js.map",
     "index.html": "/Vocab/index.html",
-    "precache-manifest.df7988085a570bd8e6fa9c51a57ed414.js": "/Vocab/precache-manifest.df7988085a570bd8e6fa9c51a57ed414.js",
+    "precache-manifest.1e07d3d166075d31b592a7f5fdd71dfd.js": "/Vocab/precache-manifest.1e07d3d166075d31b592a7f5fdd71dfd.js",
     "service-worker.js": "/Vocab/service-worker.js",
-    "static/css/main.dce59214.chunk.css.map": "/Vocab/static/css/main.dce59214.chunk.css.map",
-    "static/js/2.b54504f2.chunk.js.LICENSE": "/Vocab/static/js/2.b54504f2.chunk.js.LICENSE"
+    "static/css/main.3e9eb1f4.chunk.css.map": "/Vocab/static/css/main.3e9eb1f4.chunk.css.map",
+    "static/js/2.9af82fa2.chunk.js.LICENSE": "/Vocab/static/js/2.9af82fa2.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.3c1dc965.js",
-    "static/js/2.b54504f2.chunk.js",
-    "static/css/main.dce59214.chunk.css",
-    "static/js/main.e1be8180.chunk.js"
+    "static/js/2.9af82fa2.chunk.js",
+    "static/css/main.3e9eb1f4.chunk.css",
+    "static/js/main.7dcf9dcc.chunk.js"
   ]
 }
