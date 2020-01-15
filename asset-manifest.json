@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Vocab/static/css/main.5b8b03e0.chunk.css",
+    "main.css": "/Vocab/static/css/main.ed58bdd4.chunk.css",
     "main.js": "/Vocab/static/js/main.7768a3fc.chunk.js",
     "main.js.map": "/Vocab/static/js/main.7768a3fc.chunk.js.map",
     "runtime-main.js": "/Vocab/static/js/runtime-main.3c1dc965.js",
@@ -8,15 +8,15 @@
     "static/js/2.9af82fa2.chunk.js": "/Vocab/static/js/2.9af82fa2.chunk.js",
     "static/js/2.9af82fa2.chunk.js.map": "/Vocab/static/js/2.9af82fa2.chunk.js.map",
     "index.html": "/Vocab/index.html",
-    "precache-manifest.4cfbdd6e0cd60b5240bd76f381229f4b.js": "/Vocab/precache-manifest.4cfbdd6e0cd60b5240bd76f381229f4b.js",
+    "precache-manifest.acd0428434f5088df8a31e2810d8d5fa.js": "/Vocab/precache-manifest.acd0428434f5088df8a31e2810d8d5fa.js",
     "service-worker.js": "/Vocab/service-worker.js",
-    "static/css/main.5b8b03e0.chunk.css.map": "/Vocab/static/css/main.5b8b03e0.chunk.css.map",
+    "static/css/main.ed58bdd4.chunk.css.map": "/Vocab/static/css/main.ed58bdd4.chunk.css.map",
     "static/js/2.9af82fa2.chunk.js.LICENSE": "/Vocab/static/js/2.9af82fa2.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.3c1dc965.js",
     "static/js/2.9af82fa2.chunk.js",
-    "static/css/main.5b8b03e0.chunk.css",
+    "static/css/main.ed58bdd4.chunk.css",
     "static/js/main.7768a3fc.chunk.js"
   ]
 }
