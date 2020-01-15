@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "431db9ed1152ba291aeae54260696db9",
+    "revision": "e8ec9d8bb3cd3de22f05276d200aa6ea",
     "url": "/Vocab/index.html"
   },
   {
-    "revision": "9889bf14b7062335ce8b",
-    "url": "/Vocab/static/css/main.851c79a4.chunk.css"
+    "revision": "48b0865bdf121a5c0c54",
+    "url": "/Vocab/static/css/main.57df4761.chunk.css"
   },
   {
     "revision": "db40ddd2988305d4e259",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Vocab/static/js/2.9af82fa2.chunk.js.LICENSE"
   },
   {
-    "revision": "9889bf14b7062335ce8b",
-    "url": "/Vocab/static/js/main.7768a3fc.chunk.js"
+    "revision": "48b0865bdf121a5c0c54",
+    "url": "/Vocab/static/js/main.a4c65333.chunk.js"
   },
   {
     "revision": "747e97637b50f940f69e",
